@@ -6,7 +6,7 @@ An combined transformer and Information Retrieval framework named FTIR
 &ensp;&ensp;[2.1 Requirements](#21-Requirements)<br>
 &ensp;&ensp;[2.2 Dataset](#22-Dataset)<br>
 &ensp;&ensp;[2.3 Semantic Retrieval](#23-Semantic-Retrieval)<br>
-&ensp;&ensp;[2.3 Semantic Retrieval](#23-Semantic-Retrieval)<br>
+&ensp;&ensp;[2.4 Cross-Fusion Decoding Module](#24-Cross-Fusion Decoding Module)<br>
 3. [Application](#3-Application)<br>
 
 ## 1 Project Summary
