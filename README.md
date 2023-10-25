@@ -1,5 +1,5 @@
-# CFI
-an combine transformer and Information Retrieval framework named CFI 
+# FTIR
+An combined transformer and Information Retrieval framework named FTIR 
 ## Content
 1. [Project Summary](#1-Project-Summary)<br>
 2. [Get Started](#2-Get-Started)<br>
